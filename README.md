@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @G-Berwyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to my GitHub
+
+Hi, I'm Guto Williams, a 24 year old recent gradauate in Data Science with an interest in using data to explain and solve the world's problems.
+
+I am particularly interested in using data to improve the world around us, from environment to equality to health.
 
 <!---
 G-Berwyn/G-Berwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Overview
+# About
 |     | About Me|
 |---------|--------------|
 | Name | Guto Williams |
