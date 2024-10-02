@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 In this repo you'll find a series of Data Science related projects I have conducted using Python and R, I also have expertise in Power BI, SQL, TypeScript and PySpark.
 
-- Sheffield CAZ. This notebook is dedicated to a light-weight version of my dissertation where I developed a statistical model to assess the significance of Sheffield's Clean Air Zone
+- [Sheffield CAZ](https://github.com/G-Berwyn/Sheffield-CAZ/blob/main/CAZ_Analysis.ipynb) This notebook is dedicated to a light-weight version of my dissertation where I developed a statistical model to assess the significance of Sheffield's Clean Air Zone
 - Predicting COVID-19 Mortality. This notebook was inspired by an assignment. It looks at developing predicitive models to estimate COVID-19 fatalities in low-income countries where mortality statistics may be unreliable.
 
 My interests and education have inspired more projects that may not be hosted on GitHub, if you'd like to know more feel free to contact me!
